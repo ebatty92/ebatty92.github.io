@@ -1,5 +1,3 @@
 # portfolio
 
-Portfolio
-
-* Link to portfolio repository on GitHub: [https://github.com/ebatty92/portfolio]
+Contains index.html file and associated folders/files used by the index page.
