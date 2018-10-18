@@ -18,6 +18,17 @@ a {
   color: orange; /*change all "a" tags to the color orange */
 }
 
+.image-text {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  color: white;
+}
+
+.faded {
+  opacity: .3;
+}
+
 /* media query when the media is wider than 992px */
 @media (min-width: 992px) {
   header {
